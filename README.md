@@ -10,7 +10,7 @@ Here you'll find topics that I'm passionate about, such as:
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/dlotter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlotter&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlotter&layout=compact&langs_count=7"/>
@@ -18,7 +18,7 @@ Here you'll find topics that I'm passionate about, such as:
 </div>
 
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <a href="https://github.com/dlotter">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
