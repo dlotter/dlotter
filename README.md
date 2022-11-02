@@ -50,4 +50,4 @@ Here are some cool projects:
 - [KNN Workshop - A workshop that I taught about basic concepts of AI](https://github.com/dlotter/KNN-Workshop).
 - [A Data Science project about Ice Hockey](https://github.com/dlotter/gt-final-datascience).
 - [Quantamental Challenge - A quantitative investing strategy](https://github.com/fea-dev-usp/desafio-quantamental).
-- [Return, Risk, Markowitz and Machine Learning for Portfolios an Time Series](https://github.com/dlotter/gt-final-quant)
+- [Return, Risk, Markowitz and Machine Learning for Portfolios and Time Series](https://github.com/dlotter/gt-final-quant)
