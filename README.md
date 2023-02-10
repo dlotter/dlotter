@@ -3,10 +3,9 @@
 My name is Diego Lottermann and I help companies make data initiatives a reality. I also study economics at [FEA/USP](https://www.fea.usp.br/en) and was the founder of [FEA.dev](https://www.instagram.com/fea.dev/).
 
 Here you'll find topics that I'm passionate about, such as:
-- Econometrics
 - Data Science/Engineering
+- Econometrics
 - Causal Inference
-- Quantitative Finance
 
 ##
 
@@ -48,6 +47,7 @@ Here you'll find topics that I'm passionate about, such as:
 Here are some cool projects:
 - [Genetic Algorithm AI made from scratch](https://github.com/dlotter/trex-algoritmos-geneticos).
 - [KNN Workshop - A workshop that I taught about basic concepts of AI](https://github.com/dlotter/KNN-Workshop).
+- [Forecasting retail sales using Databricks](https://github.com/dlotter/petz).
 - [A Data Science project about Ice Hockey](https://github.com/dlotter/gt-final-datascience).
 - [Quantamental Challenge - A quantitative investing strategy](https://github.com/fea-dev-usp/desafio-quantamental).
 - [Return, Risk, Markowitz and Machine Learning for Portfolios and Time Series](https://github.com/dlotter/gt-final-quant)
