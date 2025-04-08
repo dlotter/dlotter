@@ -36,7 +36,7 @@ Here you'll find topics that I'm passionate about, such as:
 ##
 <div > 
   <a href="https://www.diegolottermann.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=diegolottermann.com&color=blueviolet" target="_blank"></a> 
-  <a href = "mailto:diegolottermann@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diegolottermann@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dlottermann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
