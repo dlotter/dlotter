@@ -1,11 +1,10 @@
 ## Hello World! 🚀
 
-My name is Diego Lottermann and I help companies make data initiatives a reality. I also study economics at [FEA/USP](https://www.fea.usp.br/en) and was the founder of [FEA.dev](https://www.instagram.com/fea.dev/).
+My name is Diego Lottermann and I help companies make data initiatives a reality. I was the founder of [FEA.dev](https://www.instagram.com/fea.dev/).
 
 Here you'll find topics that I'm passionate about, such as:
-- Data Science/Engineering
-- Econometrics
-- Causal Inference
+- Data Science
+- Data Engineering
 
 ##
 
